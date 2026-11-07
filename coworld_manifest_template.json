@@ -32,17 +32,17 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-continuous-control/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-continuous-control/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-continuous-control/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-continuous-control/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
       "readme": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-continuous-control/blob/main/README.md"
+        "value": "https://github.com/softmax-universe/cogame-continuous-control/blob/main/README.md"
       },
       "pages": [
         {
@@ -50,7 +50,7 @@
           "title": "Rules",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-continuous-control/blob/main/docs/RULES.md"
+            "value": "https://github.com/softmax-universe/cogame-continuous-control/blob/main/docs/RULES.md"
           }
         },
         {
@@ -58,7 +58,7 @@
           "title": "Gait orders and the reply format",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-continuous-control/blob/main/docs/ACTIONS.md"
+            "value": "https://github.com/softmax-universe/cogame-continuous-control/blob/main/docs/ACTIONS.md"
           }
         },
         {
@@ -66,7 +66,7 @@
           "title": "The physics, and how it differs from MuJoCo",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-continuous-control/blob/main/docs/PHYSICS.md"
+            "value": "https://github.com/softmax-universe/cogame-continuous-control/blob/main/docs/PHYSICS.md"
           }
         }
       ]
@@ -480,7 +480,7 @@
       "run": [
         "/bin/continuous-control-player"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-continuous-control",
+      "source_url": "https://github.com/softmax-universe/cogame-continuous-control",
       "env": {
         "PLAYER_SCRIPTED": "trotter",
         "PLAYER_POLICY_LABEL": "trotter"
